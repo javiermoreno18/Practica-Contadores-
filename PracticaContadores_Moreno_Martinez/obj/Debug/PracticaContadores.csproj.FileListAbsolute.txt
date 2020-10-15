@@ -1,0 +1,9 @@
+C:\Users\fcoja\source\repos\PracticaContadores\PracticaContadores\bin\Debug\PracticaContadores.exe.config
+C:\Users\fcoja\source\repos\PracticaContadores\PracticaContadores\bin\Debug\PracticaContadores.exe
+C:\Users\fcoja\source\repos\PracticaContadores\PracticaContadores\bin\Debug\PracticaContadores.pdb
+C:\Users\fcoja\source\repos\PracticaContadores\PracticaContadores\obj\Debug\PracticaContadores.csprojAssemblyReference.cache
+C:\Users\fcoja\source\repos\PracticaContadores\PracticaContadores\obj\Debug\PracticaContadores.Properties.Resources.resources
+C:\Users\fcoja\source\repos\PracticaContadores\PracticaContadores\obj\Debug\PracticaContadores.csproj.GenerateResource.cache
+C:\Users\fcoja\source\repos\PracticaContadores\PracticaContadores\obj\Debug\PracticaContadores.exe
+C:\Users\fcoja\source\repos\PracticaContadores\PracticaContadores\obj\Debug\PracticaContadores.pdb
+C:\Users\fcoja\source\repos\PracticaContadores\PracticaContadores\obj\Debug\PracticaContadores.Generador.resources
